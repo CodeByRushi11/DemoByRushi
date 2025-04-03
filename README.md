@@ -1,3 +1,3 @@
 # DemoByRushi
 This my first Git Repository, for demo and understand the concept of git and GitHub <br>
-Author:Rushikesh Ingole
+<h1>Author:Rushikesh Ingole</h1>
